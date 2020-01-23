@@ -1,0 +1,30 @@
+[
+    {
+      "EmployeeId": "1",
+      "FirstName": "Cristiano",
+      "LastName": "Ronaldo",
+      "HireDate": "1/1/2018",
+      "Role": "TeamLead"
+    },
+    {
+      "EmployeeId": "2",
+      "FirstName": "Steve",
+      "LastName": "Clark",
+      "HireDate": "1/5/2017",
+      "Role": "JuniorDeveloper"
+    },
+    {
+      "EmployeeId": "3",
+      "FirstName": "Maria",
+      "LastName": "Cammy",
+      "HireDate": "2/5/2016",
+      "Role": "SeniorDeveloper"
+    },
+    {
+      "EmployeeId": "4",
+      "FirstName": "Tom",
+      "LastName": "Cook",
+      "HireDate": "2/9/2008",
+      "Role": "Manager"
+    }
+  ]
